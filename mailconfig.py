@@ -1,0 +1,13 @@
+popservername = 'pop.mail.ru'
+popusername = 'fizmat39reg.bot@mail.ru'
+smtpservername = 'smtp.mail.ru'
+myaddress = 'fizmat39reg.bot@mail.ru'
+mysignature = ('Thanks\n')
+smtpuser = None
+smtppasswdfile = ''
+poppasswdfile = '42210991'#r'c:\temp\pymailgui.txt'
+sentmailfile = ''#r'.\sentmail.txt'
+savemailfile = ''#r'c:\temp\savemail.txt'
+fetchEncoding = ''#'utf8'
+headersEncodeTo = None
+fetchlimit = 25
